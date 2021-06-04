@@ -1,6 +1,6 @@
 {
     "lang": "en",
-    "cleanTemp": true,
+    "cleanTemp": false,
     "headless": true,
     "debug": false,
     "consoleAnimations": true,
